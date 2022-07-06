@@ -27,7 +27,7 @@ public:
     void askQuestion();
 };
  
-// Driver code
+// Main Function
 int main()
 {
     cout << "\n\n\t\t\t\tTHE DAILY QUIZ"
